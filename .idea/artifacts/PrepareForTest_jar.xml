@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PrepareForTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PrepareForTest_jar</output-path>
+    <root id="archive" name="PrepareForTest.jar">
+      <element id="module-output" name="PrepareForTest" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/sqlite-jdbc-3.32.3.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
